@@ -5,3 +5,4 @@
 {"type": "outgoing", "chat_id": 2013165571, "text": "{\"answer\": {\"city\": \"Chennai\", \"state\": \"Tamil Nadu\", \"population_million\": 4.646, \"major_landmarks\": [\"Marina Beach\", \"Fort St. George\", \"Kapaleeshwarar Temple\", \"San Thome Basilica\", \"Government Museum\", \"Valluvar Kottam\"], \"coastal\": true}, \"log_url\": \"https://raw.githubusercontent.com/keer-thanaa/tds-tele-bot/main/run.jsonl\"}", "timestamp": 1785342308.1040757}
 {"type": "incoming", "chat_id": 2013165571, "text": "What is 25% of 2", "timestamp": 1785343832.5949664}
 {"type": "outgoing", "chat_id": 2013165571, "text": "{\"answer\": 0.5, \"log_url\": \"https://raw.githubusercontent.com/keer-thanaa/tds-tele-bot/main/run.jsonl\"}", "timestamp": 1785343840.5410311}
+{"type": "incoming", "chat_id": 2013165571, "text": "what is 20 * 2?", "timestamp": 1785345539.7439024}
