@@ -1,2 +1,3 @@
  
 {"type": "incoming", "chat_id": 2013165571, "text": "What is 45% of 20?", "timestamp": 1785342166.2346466}
+{"type": "outgoing", "chat_id": 2013165571, "text": "{\"question\": \"45% of 20\", \"answer\": 9, \"log_url\": \"https://raw.githubusercontent.com/keer-thanaa/tds-tele-bot/main/run.jsonl\"}", "timestamp": 1785342175.4629066}
