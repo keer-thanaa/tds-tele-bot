@@ -8,7 +8,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filte
 # --- these come from environment variables, never hardcode them ---
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 AIPIPE_TOKEN = os.environ["AIPIPE_TOKEN"]
-LOG_URL = os.environ["LOG_URL"]
+LOG_URL = "https://raw.githubusercontent.com/keer-thanaa/tds-tele-bot/main/run.jsonl"
 # --------------------------------------------------------------------
 
 client = OpenAI(base_url="https://aipipe.org/openai/v1", api_key=AIPIPE_TOKEN)
